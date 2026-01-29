@@ -1,8 +1,18 @@
 # 💫 About Me:
-Hi, I'm Sarth Patil, a passionate Full Stack Developer with a background in Computer Engineering from Mumbai University. I have professional experience in building robust applications, having worked with Node.js during my internship and now expanding my expertise in full-stack development. Currently, I work as a full-time developer at Near Law, where I contribute to creating impactful tech solutions.
+I’m a Software Developer / Full Stack Engineer with a background in Computer Engineering from Mumbai University and around 2 years of hands-on experience building scalable, real-world applications.
+I currently work as a Software Developer at Near Law (ALL MR Online), where I contribute to building and maintaining secure, high-performance backend and full-stack systems using Node.js, Express.js, databases (SQL & NoSQL), and modern web technologies. My work spans API development, backend optimization, search-heavy systems, and supporting production-grade applications.
 
-In addition to coding, I’m actively exploring new technologies and refining my skills in frameworks and tools to build innovative solutions. Feel free to explore my repositories and connect for collaboration! 🚀
+Beyond my professional role, I enjoy building products end to end. I’m the creator of PayYourWay, a production-ready mobile application inspired by the Dutch pay concept, where I handled everything from ideation and architecture to development, testing, and deployment.
+🔗 App link: https://play.google.com/store/apps/details?id=com.payyourway.v1
 
+I’m passionate about:
+
+   -Writing clean, maintainable, and scalable code
+   -Learning new technologies and frameworks
+   -Building products that solve real problems
+   -Exploring backend, full-stack, and product-driven engineering
+
+Feel free to explore my repositories, check out my projects, or connect with me for collaboration and interesting discussions. 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarth-patil-7257541b2) 
