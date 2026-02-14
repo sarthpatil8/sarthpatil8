@@ -1,8 +1,7 @@
 # 💫 About Me:
-I’m a Software Developer / Full Stack Engineer with a background in Computer Engineering from Mumbai University and around 2 years of hands-on experience building scalable, real-world applications.
-I currently work as a Software Developer at Near Law (ALL MR Online), where I contribute to building and maintaining secure, high-performance backend and full-stack systems using Node.js, Express.js, databases (SQL & NoSQL), and modern web technologies. My work spans API development, backend optimization, search-heavy systems, and supporting production-grade applications.
+I'm a Software Development Engineer at Precize, where I focus on building and maintaining backend systems that power production applications. With a background in Computer Engineering, I've gained hands-on experience working on scalable backend services, database design, and API development. Beyond my professional role, I founded Optifia—an initiative where I build practical products from the ground up. I thrive on ownership and solving meaningful problems, whether it's optimizing system performance at work or launching products that address real-world needs.
 
-Beyond my professional role, I enjoy building products end to end. I’m the creator of PayYourWay, a production-ready mobile application inspired by the Dutch pay concept, where I handled everything from ideation and architecture to development, testing, and deployment.
+I’m the creator of PayYourWay under, a production-ready mobile application inspired by the Dutch pay concept, where I handled everything from ideation and architecture to development, testing, and deployment.
 🔗 App link: https://play.google.com/store/apps/details?id=com.payyourway.v1
 
 I’m passionate about:
